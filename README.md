@@ -35,35 +35,21 @@ Desenvolver um sistema web de vendas para aprendizado de desenvolvimento full-st
   - `GET /vendas`
   - `POST /vendas`
 
-## 4. Tecnologias Recomendadas
-
-### Front-end
-- Next.js com React
-- TypeScript
-- Tailwind CSS
-- React Hooks
-
-### Back-end
-- Java Spring Boot
-- Banco de Dados: H2 ou PostgreSQL
-
-## 5. Boas Práticas
-- Programação Orientada a Objetos
-- Princípios SOLID
+## 4. Boas Práticas
 - Versionamento com Git/GitHub
 - Commits semânticos
 
-## 6. Critérios de Avaliação
+## 5. Critérios de Avaliação
 - Funcionalidade das implementações
 - Qualidade do código
 - Integração front-end e back-end
 - Colaboração no GitHub
 
-## 7. Entregáveis
+## 6. Entregáveis
 1. Código-fonte no GitHub
 2. README de instalação
 3. Documentação técnica básica
 4. Apresentação do sistema
 
-## 8. Considerações Finais
+## 7. Considerações Finais
 Projeto focado no aprendizado prático de desenvolvimento web e práticas colaborativas.
