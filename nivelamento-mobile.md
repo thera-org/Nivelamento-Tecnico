@@ -9,7 +9,7 @@ Desenvolver um aplicativo mobile de vendas para aprendizado de desenvolvimento m
 
 ## 3. Funcionalidades Principais
 
-### 3.1 Fron-end
+### 3.1 Front-end
 - Página inicial com produtos em destaque
 - Cadastro de Produtos (nome, descrição, preço, imagem)
 - Cadastro de Clientes (nome, e-mail, telefone)
